@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="23">
 </div>
 
-<div align=""><h4>Deployment & Collaboration 🚀</h4></div>
+<div align=""><h4>배포 & 협업도구 🚀</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="23">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="23"> 
