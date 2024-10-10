@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align=""><h1>Frontend Developer 김기준</h1></div>
+<div align=""><h2>Frontend Developer 김기준</h1></div>
 
 <div align=""> 
 
@@ -8,7 +8,7 @@
 
 <div align=""><h2>기술 스택</h2></div>
 
-<div align=""><h3>Frontend</h3></div>
+<div align=""><h4>Frontend</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
 </div>
 
-<div align=""><h3>Backend</h3></div>
+<div align=""><h4>Backend</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
-<div align=""><h3>Deployment & Collaboration 🚀</h3></div>
+<div align=""><h4>Deployment & Collaboration 🚀</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
