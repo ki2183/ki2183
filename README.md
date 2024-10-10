@@ -1,7 +1,9 @@
 <div align=""><h2>Frontend Developer 김기준</h2></div>
 
 <div align=""> 
-
+  <p>React-query를 활용한 데이터 캐싱 등 api 요청 최적화에 대해 고민합니다.</p>
+  <p>Redux Recoil등 전역 상태관리 라이브러리를 통해 간결한 코드를 유지하고 리렌더링을 고려합니다.</p>
+  <p>웹사이트 제작 및 배포 과정에서 SEO 최적화를 통해 검색 순위를 향상시킨 경험이 있습니다.</p>
 </div>
 
 <div align=""><h2>기술 스택</h2></div>
