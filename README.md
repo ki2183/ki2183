@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="23"> 
 </div>
 
-<div align=""><h4>Backend(Sub)</h4></div>
+<div align=""><h4>Backend(SUB)</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="23"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="23"> 
