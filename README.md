@@ -26,12 +26,6 @@
 
 </div>
 
-<div align=""><h4>Backend(SUB)</h4></div>
-<div align=""> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="23"> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="23"> 
-</div>
-
 <div align=""><h4>배포 & 협업도구 🚀</h4></div>
 <div align=""> 
   <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="23">
